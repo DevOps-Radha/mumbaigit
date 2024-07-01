@@ -1,0 +1,14 @@
+Active directory and domain controller.
+It is microsoft's administrative central directories's database, which contains info about created user accounts, computer accounts,
+groups and other objects.
+It provides authorization by using kerberos protocol.
+It is used to manage users and computers.
+It is used to centralised and de-centeralised resources.
+
+* create network wide rules such as requiring unique and complex passwords.
+* create network wide policies such as password expiry policy
+* centerlised control of security on all computers
+* Automatic network printer install as soon as the PC join the domain
+* restrication on usb or removable media to prevent for using to make secure company network and stops to sperad virus or malwares
+* computer locks their screen after set period of time and they require password to unlock again
+* employees are disabled for exisiting from the company
