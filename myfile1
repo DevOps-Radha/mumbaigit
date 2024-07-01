@@ -1,0 +1,10 @@
+GIT (Global Information Tracker)
+It is a Central Version Control System. It is used to manage source codes, digital content & documents. It helps developes to manage  version history of source codes, collaborate with projects.
+GIT is a software, where as GIT HUB, GIT LAB both are services.
+After provided command git init it creates logically three parts
+1) Working direcory or Working space
+2) Staging area
+3) Local repository 
+
+Git hub is central repository or Master.
+CVCS is a system that does not bother of the content, which are modified by developer in worksing space untill the developer or user will not make it add once add will be completed, that file is now enterd in staging area and ready for save or commit with message in repository.
