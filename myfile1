@@ -8,3 +8,5 @@ After provided command git init it creates logically three parts
 
 Git hub is central repository or Master.
 CVCS is a system that does not bother of the content, which are modified by developer in worksing space untill the developer or user will not make it add once add will be completed, that file is now enterd in staging area and ready for save or commit with message in repository.
+So we have seen how to add repository, created on github account,
+The command was git remote add origin <URL>
